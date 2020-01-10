@@ -5,7 +5,7 @@
 
 ## What is Mango?
 
-**Mango** is a Markdown editor designed for Linux, also supports Windows and Mac OSX. It's not only supports Markdown, but also extends Markdown syntax with some nice features to help people conveniently write **mathematical formula** and **code**. I write a blog in [here](http://egrcc.github.io/2015/04/12/mango-tutorial/) (in chinese) describe the implement of Mango.
+**Mango** is a Markdown editor designed for Linux, also supports Windows and Mac OSX. It's not only supports Markdown, but also extends Markdown syntax with some nice features to help people conveniently write **mathematical formula** and **code**. I wrote a blog in [here](http://egrcc.github.io/2015/04/12/mango-tutorial/) (in chinese) which describes the implementation of Mango.
 
 中文说明见[这里](./README-zh.md).
 
@@ -54,11 +54,11 @@ You can conveniently export your documents to PDF (shortcut: `Ctrl + E`) and HTM
 
 ## Downloads
 
-- **Linux**: [32bit](./dists/mango-v0.1.0-linux-ia32.tar.gz?raw=true) / [64bit](./dists/mango-v0.1.0-linux-x64.tar.gz?raw=true)
-- **Windows**: [32bit](./dists/mango-v0.1.0-win-ia32.zip?raw=true) / [64bit](./dists/mango-v0.1.0-win-x64.zip?raw=true)
+- **Linux**: [32bit](https://github.com/egrcc/Mango-dists/blob/master/mango-v0.1.0-linux-ia32.tar.gz?raw=true) / [64bit](https://github.com/egrcc/Mango-dists/blob/master/mango-v0.1.0-linux-x64.tar.gz?raw=true)
+- **Windows**: [32bit](https://github.com/egrcc/Mango-dists/blob/master/mango-v0.1.0-win-ia32.zip?raw=true) / [64bit](https://github.com/egrcc/Mango-dists/blob/master/mango-v0.1.0-win-x64.zip?raw=true)
 - **Mac OSX**: 32bit / 64bit
 
-If you have NW.js installed, you also can run from source code.
+If you have NW.js installed, you can also run from source code.
 
 ## Acknowlegements
 
